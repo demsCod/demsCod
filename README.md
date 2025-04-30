@@ -22,11 +22,6 @@ I love solving problems with code
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python)
 
-## 📊 GitHub Stats
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight)
-
 ## 🌐 Find me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/in/mdembele42)  
