@@ -12,7 +12,6 @@ Whether I'm working solo or as part of a team, I value clean code, great UI/UX, 
 
 ![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react)
 ![React Native](https://img.shields.io/badge/-React_Native-20232A?style=flat-square&logo=react)
-![Expo](https://img.shields.io/badge/-Expo-000000?style=flat-square&logo=expo)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-20232A?style=flat-square&logo=typescript)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-20232A?style=flat-square&logo=tailwindcss)
 ![Firebase](https://img.shields.io/badge/-Firebase-20232A?style=flat-square&logo=firebase)
