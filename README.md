@@ -1,25 +1,20 @@
-# 👋🏿 Hi, I'm Mohamed!
+Hi! My name is Mohamed Dembele 😄
+========================================================================================================================================
 
-I'm a passionate software developer with a strong interest in full-stack development and mobile apps.  
-I enjoy building clean, efficient, and user-friendly applications — from frontend interfaces to backend logic.
+🌍  I am a Software Developer based in France.
+<br/>
+💻  Open to work!
+<br/>
 
-Currently focused on React Native and TypeScript, I love learning new technologies and working on real-world projects that solve meaningful problems.  
-I'm also experienced in C++, Python, and Firebase, and I always enjoy a good challenge.
+### Tech stack
 
-Whether I'm working solo or as part of a team, I value clean code, great UI/UX, and continuous improvement.
+[![My Skills](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev) [![My Skills](https://skillicons.dev/icons?i=js,ts)](https://skillicons.dev) [![My Skills](https://skillicons.dev/icons?i=react,next)](https://skillicons.dev)  [![My Skills](https://skillicons.dev/icons?i=tailwind,scss)](https://skillicons.dev)  
+<br/>
 
-## 🛠️ Tech Stack
+### Socials
 
-![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react)
-![React Native](https://img.shields.io/badge/-React_Native-20232A?style=flat-square&logo=react)
-![TypeScript](https://img.shields.io/badge/-TypeScript-20232A?style=flat-square&logo=typescript)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-20232A?style=flat-square&logo=tailwindcss)
-![Firebase](https://img.shields.io/badge/-Firebase-20232A?style=flat-square&logo=firebase)
-![C++](https://img.shields.io/badge/-C++-20232A?style=flat-square&logo=c%2B%2B)
-![Python](https://img.shields.io/badge/-Python-20232A?style=flat-square&logo=python)
-
-## 🌐 Find me
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/in/mdembele42)  [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:mdembele@student.42.fr)
-
----
+<div id="badges">
+  <a href="https://www.linkedin.com/in/mdembele42/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
