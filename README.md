@@ -1,4 +1,4 @@
-Hi! My name is Mohamed Dembele 😄
+Hi! My name is Mohamed
 ========================================================================================================================================
 
 🌍  I am a Software Developer based in France.
